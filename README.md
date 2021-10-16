@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kodeline
-- 👀 I’m interested in videogamess NFT, blockchain and tech 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in videogamess NFT, blockchain and programming
+- 🌱 I’m currently learning node and solidity
+- 💞️ I’m looking to collaborate on kode Games
 - 📫 How to reach me ...
 
 <!---
