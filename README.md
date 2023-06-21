@@ -23,6 +23,7 @@
   
 <h4>Programming Languages</h4>
 <p>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3b77a8?style=for-the-badge&logo=python&logoColor=feda4a">
  
